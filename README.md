@@ -5,6 +5,7 @@ R 是一个有着统计分析功能及强大作图功能的软件系统，是由
 
 ## R-Studio Download
 - Download and Install R & Source Code for all Platforms ：http://lib.stat.cmu.edu/
+- Install R and RStudio on Mac: https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-mac-e911606ce4f4
 - CRAN Mirrors：https://cran.r-project.org/mirrors.html
 
 ## R Book Lists
